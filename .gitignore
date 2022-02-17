@@ -1,0 +1,7 @@
+.idea/
+tf-ca.iml
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform/
+config.auto.tfvars

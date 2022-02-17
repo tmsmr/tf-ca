@@ -1,0 +1,3 @@
+ca_cn = "example.com"
+server_cns = ["server-a.example.com", "server-b.example.com"]
+client_cns = ["client-a.example.com", "client-b.example.com"]
