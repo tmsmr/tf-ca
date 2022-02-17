@@ -15,3 +15,5 @@ variable "server_cert_validity_hours" {
 variable "client_cert_validity_hours" {
   default = 8760
 }
+
+variable "p12_pass" {}
